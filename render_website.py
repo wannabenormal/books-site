@@ -10,7 +10,8 @@ def on_reload():
     with open('books.json', 'r', encoding='utf-8') as json_file:
         books = json.load(json_file)
 
-    books_py_pages = list(chunked(books, 20))
+    books_per_page = 20
+    books_by_pages = list(chunked(books, books_per_page))
 
     env = Environment(
         loader=FileSystemLoader('.'),
@@ -21,10 +22,10 @@ def on_reload():
 
     os.makedirs('pages', exist_ok=True)
 
-    for page_num, page_books in enumerate(books_py_pages, 1):
+    for page_num, page_books in enumerate(books_by_pages, 1):
         rendered_page = template.render(
             books=page_books,
-            pages_count=len(books_py_pages),
+            pages_count=len(books_by_pages),
             current_page=page_num
         )
 
