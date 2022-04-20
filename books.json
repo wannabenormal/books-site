@@ -315,19 +315,6 @@
     "book_path": "books/8283. Зодиак.txt"
   },
   {
-    "book_id": "8467",
-    "book_title": "Der Schwarm",
-    "book_author": "Schaetzing Frank",
-    "book_image": "https://tululu.org/images/nopic.gif",
-    "comments": [],
-    "genres": [
-      "Научная фантастика",
-      "Триллеры"
-    ],
-    "img_src": "images/nopic.gif",
-    "book_path": "books/8467. Der Schwarm.txt"
-  },
-  {
     "book_id": "8559",
     "book_title": "Justitia - est Часть 1",
     "book_author": "Картман Эрика",
@@ -339,19 +326,6 @@
     ],
     "img_src": "images/nopic.gif",
     "book_path": "books/8559. Justitia - est Часть 1.txt"
-  },
-  {
-    "book_id": "8595",
-    "book_title": "Lost in a Good Book",
-    "book_author": "Fforde Jasper",
-    "book_image": "https://tululu.org/shots/8595.jpg",
-    "comments": [],
-    "genres": [
-      "Научная фантастика",
-      "Прочие Детективы"
-    ],
-    "img_src": "images/8595.jpg",
-    "book_path": "books/8595. Lost in a Good Book.txt"
   },
   {
     "book_id": "8902",
@@ -476,46 +450,6 @@
     "book_path": "books/10923. Общая теория Доминант.txt"
   },
   {
-    "book_id": "11477",
-    "book_title": "Программируемый мальчик (педагогическая фантастика)",
-    "book_author": "Тюрин Александр Владимирович",
-    "book_image": "https://tululu.org/images/nopic.gif",
-    "comments": [],
-    "genres": [
-      "Детская фантастика",
-      "Киберпанк",
-      "Научная фантастика"
-    ],
-    "img_src": "images/nopic.gif",
-    "book_path": "books/11477. Программируемый мальчик (педагогическая фантастика).txt"
-  },
-  {
-    "book_id": "12674",
-    "book_title": "Войны Сорока Островов (Часть первая)",
-    "book_author": "Лукьяненко Сергей Васильевич",
-    "book_image": "https://tululu.org/images/nopic.gif",
-    "comments": [
-      "В последних словах объясняющих книгу в целом, я просто остановился и думал..., а ведь правда всё именно так. ",
-      "Администратор, модератор, в общем тот человек, что отвечает за расположение книг. Повесть называется \"Рыцари сорока островов\". Было бы неплохо исправить;)",
-      "Замечательная повесть! Читается на одном дыхании...последний комментарий автора, действительно, просто необходим!",
-      "Валентину: Название книги указанно верно, по сути это продолжение \"рыцарей\" т.е. следующая книга.",
-      "Больше похоже на философию, чем на фантастику.",
-      "Читал рыцарей два раза. Хотелось бы продолжения! Автор, я в тебя верю, что ты напишешь!",
-      "А мне кажется книга очень жесткой, и хотя главные герои-дети, совсем не детской. Но написано хорошо.",
-      "Сергей Васильевич, а ведь и правда надо бы дописать продолжение. Я очень люблю и уважаю все Ваше творчество, но эта книга - одна из моих самых любимых, она невероятно философская и сильная. Надеюсь, когда-нибудь Вы все же допишете ее :))",
-      "Все книги Сергея Лукьяненко философские. О фантастике даже не думаешь, потому что всё очень жизненно. Спасибо!",
-      "Книга хорошая. Давал детям читать когда им было по 10-12 лет, нравилась. И сейчас о ней хорошо вспоминают. Согласен, что книга сложная, но дети читали на одном дыхании, спрашивали продолжения, книга не просто читалась, а еще заставляла думать, сопереживать. Продолжение нужно!!!",
-      "Понравилось, жду продолжения!!!",
-      "Если вы еще не читали Лукьяненко, советую начинать с этой книги. Она, как простая но забойная песня в концерте, покажет вам, ваш ли это автор. (Мне ОЧЕНЬ нравтися)."
-    ],
-    "genres": [
-      "Детская фантастика",
-      "Научная фантастика"
-    ],
-    "img_src": "images/nopic.gif",
-    "book_path": "books/12674. Войны Сорока Островов (Часть первая).txt"
-  },
-  {
     "book_id": "12795",
     "book_title": "Взгляд из сердца",
     "book_author": "Мейстер Максим",
@@ -547,19 +481,6 @@
     ],
     "img_src": "images/13038.jpg",
     "book_path": "books/13038. Звездный зверь ( Звездное чудовище).txt"
-  },
-  {
-    "book_id": "14480",
-    "book_title": "Красный сфинкс",
-    "book_author": "Прашкевич Геннадий Мартович",
-    "book_image": "https://tululu.org/shots/14480.jpg",
-    "comments": [],
-    "genres": [
-      "Научная фантастика",
-      "Прочая документальная литература"
-    ],
-    "img_src": "images/14480.jpg",
-    "book_path": "books/14480. Красный сфинкс.txt"
   },
   {
     "book_id": "16092",
@@ -1130,20 +1051,6 @@
     "book_path": "books/18967. А мы лезем в окно.txt"
   },
   {
-    "book_id": "18968",
-    "book_title": "А она бежала",
-    "book_author": "Бушков Александр Александрович",
-    "book_image": "https://tululu.org/images/nopic.gif",
-    "comments": [
-      "Очень продуманный сюжет."
-    ],
-    "genres": [
-      "Научная фантастика"
-    ],
-    "img_src": "images/nopic.gif",
-    "book_path": "books/18968. А она бежала.txt"
-  },
-  {
     "book_id": "18969",
     "book_title": "А она уходила",
     "book_author": "Дымов Феликс Яковлевич",
@@ -1216,32 +1123,6 @@
     ],
     "img_src": "images/nopic.gif",
     "book_path": "books/18974. А все из-за любви.txt"
-  },
-  {
-    "book_id": "18975",
-    "book_title": "А все остальное - не в счёт",
-    "book_author": "Лукин Евгений",
-    "book_image": "https://tululu.org/images/nopic.gif",
-    "comments": [
-      "САМЫЙ ЛУЧШИЙ РАССКАЗ О ЧЕЛОВЕЧЕСКОМ СЧАСТЬЕ, ОЧЕНЬ СООТВЕТСТВУЕМ МОИМ ПРЕДСТАВЛЕНИЯМ=)"
-    ],
-    "genres": [
-      "Научная фантастика"
-    ],
-    "img_src": "images/nopic.gif",
-    "book_path": "books/18975. А все остальное - не в счёт.txt"
-  },
-  {
-    "book_id": "18976",
-    "book_title": "А всё остальное - не в счёт",
-    "book_author": "Лукин Евгений",
-    "book_image": "https://tululu.org/images/nopic.gif",
-    "comments": [],
-    "genres": [
-      "Научная фантастика"
-    ],
-    "img_src": "images/nopic.gif",
-    "book_path": "books/18976. А всё остальное - не в счёт.txt"
   },
   {
     "book_id": "18977",
@@ -1585,30 +1466,6 @@
     "book_path": "books/19005. Ад есть ад.txt"
   },
   {
-    "book_id": "19006",
-    "book_title": "Ад на Венере",
-    "book_author": "Чадович Николай Трофимович",
-    "book_image": "https://tululu.org/images/nopic.gif",
-    "comments": [],
-    "genres": [
-      "Научная фантастика"
-    ],
-    "img_src": "images/nopic.gif",
-    "book_path": "books/19006. Ад на Венере.txt"
-  },
-  {
-    "book_id": "19007",
-    "book_title": "Ад на Земле",
-    "book_author": "Рындин Дмитрий",
-    "book_image": "https://tululu.org/images/nopic.gif",
-    "comments": [],
-    "genres": [
-      "Научная фантастика"
-    ],
-    "img_src": "images/nopic.gif",
-    "book_path": "books/19007. Ад на Земле.txt"
-  },
-  {
     "book_id": "19009",
     "book_title": "Ад - это отсутствие бога",
     "book_author": "Чан Тед",
@@ -1756,18 +1613,6 @@
     "book_path": "books/19021. Адепт Сергеев.txt"
   },
   {
-    "book_id": "19024",
-    "book_title": "Администрация леса",
-    "book_author": "Чадович Николай Трофимович",
-    "book_image": "https://tululu.org/images/nopic.gif",
-    "comments": [],
-    "genres": [
-      "Научная фантастика"
-    ],
-    "img_src": "images/nopic.gif",
-    "book_path": "books/19024. Администрация леса.txt"
-  },
-  {
     "book_id": "19025",
     "book_title": "Адмиральский час",
     "book_author": "Вершинин Лев",
@@ -1780,30 +1625,6 @@
     "book_path": "books/19025. Адмиральский час.txt"
   },
   {
-    "book_id": "19026",
-    "book_title": "Адмирал над поляной",
-    "book_author": "Михайлов Владимир",
-    "book_image": "https://tululu.org/images/nopic.gif",
-    "comments": [],
-    "genres": [
-      "Научная фантастика"
-    ],
-    "img_src": "images/nopic.gif",
-    "book_path": "books/19026. Адмирал над поляной.txt"
-  },
-  {
-    "book_id": "19027",
-    "book_title": "Адов Пламень (фрагмент)",
-    "book_author": "Иторр Кайл",
-    "book_image": "https://tululu.org/images/nopic.gif",
-    "comments": [],
-    "genres": [
-      "Научная фантастика"
-    ],
-    "img_src": "images/nopic.gif",
-    "book_path": "books/19027. Адов Пламень (фрагмент).txt"
-  },
-  {
     "book_id": "19031",
     "book_title": "Адские лики Марса",
     "book_author": "Нечай Дмитрий",
@@ -1814,18 +1635,6 @@
     ],
     "img_src": "images/nopic.gif",
     "book_path": "books/19031. Адские лики Марса.txt"
-  },
-  {
-    "book_id": "19033",
-    "book_title": "Адский мир (Мир Туманов - 3)",
-    "book_author": "Грин Саймон",
-    "book_image": "https://tululu.org/images/nopic.gif",
-    "comments": [],
-    "genres": [
-      "Научная фантастика"
-    ],
-    "img_src": "images/nopic.gif",
-    "book_path": "books/19033. Адский мир (Мир Туманов - 3).txt"
   },
   {
     "book_id": "19035",
